@@ -1,0 +1,5 @@
+.roadmap-shadow {
+  box-shadow: 0px -200px 400px -35px rgba(252, 200, 0, 0.68);
+  -webkit-box-shadow: 0px -200px 400px -35px rgba(252, 200, 0, 0.68);
+  -moz-box-shadow: 0px -200px 400px -35px rgba(252, 200, 0, 0.68);
+}
